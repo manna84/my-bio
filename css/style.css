@@ -1,6 +1,38 @@
+html {
+    
+}
+
 body {
-    background-color: #fff;
+    background-color: lightgoldenrodyellow;
     font-family: Arial, Helvetica, sans-serif;
     color: #555;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 1em;
+    line-height: 1.4;
+}
 
+h1 {
+    text-align: center;
+    font-size: 3em;
+    color: lightskyblue;
+}
+
+h2 {
+    font-size: 2em;
+    background-color: lightgreen;
+}
+
+h3 {
+    font-size: 1.5em;
+}
+
+.hulk-photo {
+    
+    height: 15em;
+    
+}
+
+footer {
+    background-color: lightgrey;
 }
