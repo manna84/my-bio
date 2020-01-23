@@ -30,7 +30,18 @@ h3 {
 .hulk-photo {
     
     height: 15em;
+    width: auto;
     
+}
+
+.python-screen {
+    height: 15em;
+    width: auto;
+}
+
+.ronaldo-pic {
+    height: 15em;
+    width: auto;
 }
 
 footer {
